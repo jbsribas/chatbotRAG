@@ -1,5 +1,11 @@
 # Chatbot  com RAG
 
 
-Trabalho apresentado sobre Vetorização de Documentos, RAG e Chatbot apresentado para disciplina de LLM Doutorado 2024/2
+ Apresentado como trabalho na disciplina de LLM doutorado 2024/2
+ Tecnologias:
+1. Ollama
+2. Langchain
+4. Streamlit
+5. Vector DB: FAISS
+
 
